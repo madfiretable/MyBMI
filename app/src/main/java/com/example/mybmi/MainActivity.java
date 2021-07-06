@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 double w = Double.parseDouble(num_w.getText().toString());
                 double BMI = w / (h * h);
 
-                show_r.setText(getText(R.string.bmi_result) + nf.format(BMI));
+                show_r.setText(getText(R.string.bmi_result) + nf.format(BMI));//0123
 
                 if (BMI > 25)
                     show_s.setText(R.string.bmi_fat);
