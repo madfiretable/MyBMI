@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyBMI</string>
+    <string name="bmi_hello">Hello!BMI</string>
+    <string name="bmi_height">Height(cm)</string>
+    <string name="bmi_weight">Weight(kg)</string>
+    <string name="bmi_btn">Calculate the value of your BMI</string>
+    <string name="bmi_result">Your value of BMI is</string>
+    <string name="bmi_light">You should fucking eat more</string>
+    <string name="bmi_normal">Keep on maintaining your fucking well body</string>
+    <string name="bmi_fat">Go on a fucking diet fatty</string>
+    <string name="action_settings">Setting</string>
+    <string name="tittle">About Android BMI</string>
+    <string name="message">Android BMI calculation</string>
+    <string name="Ok">Ok</string>
+    <string name="error">Please enter your height and weight first</string>
+</resources>

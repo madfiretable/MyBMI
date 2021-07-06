@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyBMI</string>
+    <string name="bmi_hello">こんにちは!BMI</string>
+    <string name="bmi_height">身長(cm)</string>
+    <string name="bmi_weight">体重(kg)</string>
+    <string name="bmi_btn">計算あなたのBMI</string>
+    <string name="bmi_result">あなたのBMIは</string>
+    <string name="bmi_light">あなたはもっとたべたい</string>
+    <string name="bmi_normal">この体調を維持してください</string>
+    <string name="bmi_fat">体重を減らしてください，デブ</string>
+    <string name="action_settings">セットアップ</string>
+    <string name="tittle">AndroidBMIについて</string>
+    <string name="message">AndroidのBMI計算</string>
+    <string name="Ok">決定する</string>
+    <string name="error">最初に身長と体重を入力する必要があります</string>
+</resources>

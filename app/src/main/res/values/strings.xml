@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyBMI</string>
+    <string name="bmi_hello">哈囉!BMI</string>
+    <string name="bmi_height">身高(cm)</string>
+    <string name="bmi_weight">體重(kg)</string>
+    <string name="bmi_btn">計算BMI值</string>
+    <string name="bmi_result">你的BMI值是</string>
+    <string name="bmi_light">你他媽該多吃一點了喔</string>
+    <string name="bmi_normal">給我她媽繼續維持這個健康體態</string>
+    <string name="bmi_fat">胖子給我好好減肥</string>
+    <string name="action_settings">Setting</string>
+    <string name="tittle">關於Android BMI</string>
+    <string name="message">Android BMI 計算</string>
+    <string name="Ok">確定</string>
+    <string name="error">要先輸入身高體重喔</string>
+</resources>
